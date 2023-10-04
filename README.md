@@ -26,3 +26,11 @@ este texto esta en _**negrita y cursiva**_
 + Sexta opcion de lista desordenada
 
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
+
+
+|Primera col.|Segunda col.|3 col.|
+|---------------|:-------------:|---------:|
+|COl 2 es|centrada|35€|
+|COl 3 es|derecha|134€|
+|Estilo cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
