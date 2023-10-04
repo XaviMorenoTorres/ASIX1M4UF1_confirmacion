@@ -20,8 +20,8 @@ este texto esta en _**negrita y cursiva**_
     1. Primer submenu
     2. Segunda submenu
 - Quarta opcion de lista desordenada
-    *Tercer submenu
-    *Quarto submenu
+    * Tercer submenu
+    * Quarto submenu
 + Quinta opcion de lista desordenada
 + Sexta opcion de lista desordenada
 
@@ -34,3 +34,7 @@ este texto esta en _**negrita y cursiva**_
 |COl 3 es|derecha|134€|
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[x] Opcion A
+-[] Opcion B
+-[] Opcion C
