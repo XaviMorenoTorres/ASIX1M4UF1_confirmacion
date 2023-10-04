@@ -36,5 +36,7 @@ este texto esta en _**negrita y cursiva**_
 |Clase|ASIX1|M4|
 
 -[x] Opcion A
+
 -[] Opcion B
+
 -[] Opcion C
